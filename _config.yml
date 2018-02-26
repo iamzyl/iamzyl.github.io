@@ -14,11 +14,11 @@ filter: 'category'
 recent_num: 10
 
 # Social account
-twitter: null
-weibo: null
-github: null
-instagram: null
-linkedin: null
+#twitter: null
+#weibo: null
+github: iamzyl
+#instagram: null
+#linkedin: null
 
 # avatar and Favicon
 avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png

@@ -6,6 +6,7 @@ layout: post
 ## about myself
 
 学生
+$$\sum_{i=1}^n a_i=0$$
 
 ## why I choose blog
 

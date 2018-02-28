@@ -9,6 +9,8 @@ layout: post
 
 ## why I choose blog
 
+$$ \left( \sum_{k=1}^n a_k bk \right)^2 \leq \left( \sum{k=1}^n ak^2 \right) \left( \sum{k=1}^n b_k^2 \right)$$
+
 博客已死的说法已经流传了很久，现在开始写博客似乎很不合时宜。
 
 但毕竟还有为自己而写的需求存在。

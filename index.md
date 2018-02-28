@@ -9,7 +9,10 @@ layout: post
 
 ## why I choose blog
 
-$$ J\alpha(x) = \sum\limits{m=0}^\infty \frac{(-1)^m}{m! \, \Gamma(m + \alpha + 1)}{\left({\frac{x}{2}}\right)}^{2 m + \alpha} $$
+\\[
+    \int_{-\infty}^{\infty} \frac{1}{\sqrt{2\pi \sigma}} 
+    \mathrm{e}^{-\frac{(x-\mu)^2}{2\sigma^2}} \,\mathrm{d}x = 1 
+\\]
 
 博客已死的说法已经流传了很久，现在开始写博客似乎很不合时宜。
 

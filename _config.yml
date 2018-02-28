@@ -37,7 +37,7 @@ ga:
 permalink: /:year/:month/:day/:title.html
 markdown: kramdown #zyl:what?
 highlighter: rouge
-mathjax: disabled #zyl:...
+#mathjax: disabled #zyl:...
 sass:
   style: compressed
 

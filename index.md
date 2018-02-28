@@ -9,11 +9,6 @@ layout: post
 
 ## why I choose blog
 
-\\[
-    \int_{-\infty}^{\infty} \frac{1}{\sqrt{2\pi \sigma}} 
-    \mathrm{e}^{-\frac{(x-\mu)^2}{2\sigma^2}} \,\mathrm{d}x = 1 
-\\]
-
 博客已死的说法已经流传了很久，现在开始写博客似乎很不合时宜。
 
 但毕竟还有为自己而写的需求存在。
